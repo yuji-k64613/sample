@@ -1,2 +1,3 @@
 git rebase -i
 master edit
+master edit2
